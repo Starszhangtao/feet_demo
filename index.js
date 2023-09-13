@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         抢mate60pro
-// @version      1.0
-// @description  try to take over the world!
+// @version      2.0
+// @description  好像还不得行
 // @author       Stars
 // @match        https://www.vmall.com/product/*
 // @icon         https://res.vmallres.com/pimages//uomcdn/CN/pms/202309/gbom/6942103109560/78_78_085E54DDF8265F682ACEA3C84D434E93mp.png
